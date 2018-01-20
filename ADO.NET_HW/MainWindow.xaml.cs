@@ -37,6 +37,7 @@ namespace ADO.NET_HW
         {
             try
             {
+
                 var tt = "";
                 //SqlConnection con = new SqlConnection(_connstring);
                 //SqlDataAdapter adapter = new SqlDataAdapter("select * from Area", con);
